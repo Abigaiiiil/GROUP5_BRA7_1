@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "mapquest-application",
+    "slug": "snack-6264d236-5df8-40a4-9913-b62a2a2bccf7",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Breakout Room Activity 7.1 | Project Activity 3: Social Coding "
+  }
+}
